@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/(dashboard)/_components/TopHeader.jsx", "app/(dashboard)/_components/SideNav.jsx", "app/(dashboard)/(routes)/upload/page.jsx"],
   "exclude": ["node_modules"]
 }
